@@ -1,5 +1,9 @@
 # 💫 About Me:
-Final-year Computer Science student specializing in Full Stack Development with hands-on experience in Python, Java, and<br>modern web technologies
+Full Stack Developer specializing in Python, Java, and JavaScript with hands-on experience building scalable
+web applications. Proven track record of writing clean, maintainable code and delivering high-quality solutions.
+Improved system performance by 40 percent and reduced bugs by 25 percent through optimization and rigorous
+testing. Strong problem-solving abilities with expertise in both independent and collaborative development
+environments. Demonstrated success in fast-paced, deadline-driven projects.
 
 
 ## 🌐 Socials:
