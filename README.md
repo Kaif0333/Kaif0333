@@ -15,6 +15,18 @@
 
 <br />
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" alt="React" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" alt="REST API" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" alt="GitHub" />
+</div>
+
+<br />
+
 ## 🚀 About Me
 
 I am a **backend-focused Full Stack Developer** building real-world web apps, SaaS platforms, REST APIs, AI/ML projects, dashboards, and premium client websites.
