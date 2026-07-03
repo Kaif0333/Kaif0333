@@ -56,14 +56,14 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 
 ## 💼 Featured Client / Live Projects
 
-| Project | Category | Description | Live |
-|---|---|---|---|
-| **Gulshan Empire** | Real Estate | Luxury real-estate landing page with premium UI and lead-focused experience | [Visit](https://www.gulshan-empire.in/) |
-| **Patrick R. Coyle** | Consulting | Executive consulting / CFO advisory website redesign | [Visit](https://patrick-rcoyle.vercel.app/) |
-| **Codian UI** | Ecommerce UI | Mobile-first ecommerce product interface | [Visit](https://codian-ui.vercel.app/) |
-| **Raydz Shoes** | Ecommerce | Streetwear shoe landing page with bold visual branding | [Visit](https://raydz-shoes.vercel.app/) |
-| **Japan Tours** | Travel | Cinematic travel landing page with modern visual storytelling | [Visit](https://japan-website-work.vercel.app/) |
-| **Portfolio** | Personal Brand | Developer portfolio showcasing my work and skills | [Visit](https://kaif0333-portfolio.vercel.app/) |
+| Preview | Project | Category | Description | Live |
+|---|---|---|---|---|
+| <a href="https://www.gulshan-empire.in/"><img src="https://image.thum.io/get/width/420/crop/260/https://www.gulshan-empire.in/" width="150" alt="Gulshan Empire preview" /></a> | **Gulshan Empire** | Real Estate | Luxury real-estate landing page with premium UI and lead-focused experience | [Visit](https://www.gulshan-empire.in/) |
+| <a href="https://patrick-rcoyle.vercel.app/"><img src="https://image.thum.io/get/width/420/crop/260/https://patrick-rcoyle.vercel.app/" width="150" alt="Patrick R. Coyle preview" /></a> | **Patrick R. Coyle** | Consulting | Executive consulting / CFO advisory website redesign | [Visit](https://patrick-rcoyle.vercel.app/) |
+| <a href="https://codian-ui.vercel.app/"><img src="https://image.thum.io/get/width/420/crop/260/https://codian-ui.vercel.app/" width="150" alt="Codian UI preview" /></a> | **Codian UI** | Ecommerce UI | Mobile-first ecommerce product interface | [Visit](https://codian-ui.vercel.app/) |
+| <a href="https://raydz-shoes.vercel.app/"><img src="https://image.thum.io/get/width/420/crop/260/https://raydz-shoes.vercel.app/" width="150" alt="Raydz Shoes preview" /></a> | **Raydz Shoes** | Ecommerce | Streetwear shoe landing page with bold visual branding | [Visit](https://raydz-shoes.vercel.app/) |
+| <a href="https://japan-website-work.vercel.app/"><img src="https://image.thum.io/get/width/420/crop/260/https://japan-website-work.vercel.app/" width="150" alt="Japan Tours preview" /></a> | **Japan Tours** | Travel | Cinematic travel landing page with modern visual storytelling | [Visit](https://japan-website-work.vercel.app/) |
+| <a href="https://kaif0333-portfolio.vercel.app/"><img src="https://image.thum.io/get/width/420/crop/260/https://kaif0333-portfolio.vercel.app/" width="150" alt="Portfolio preview" /></a> | **Portfolio** | Personal Brand | Developer portfolio showcasing my work and skills | [Visit](https://kaif0333-portfolio.vercel.app/) |
 
 ---
 
