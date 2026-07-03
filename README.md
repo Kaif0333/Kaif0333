@@ -102,14 +102,39 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaif0333&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif0333&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=Kaif0333&style=for-the-badge&color=00D9FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Kaif0333?style=for-the-badge&logo=github&color=00D9FF" alt="GitHub followers" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Kaif0333&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaif0333&theme=github_dark" alt="GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaif0333&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif0333&theme=github_dark" alt="GitHub profile details" />
+</div>
+
+<br />
+
+## 🧾 Language Snapshot
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Backend%20%7C%20AI%2FML-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend%20%7C%20APIs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-SaaS%20Development-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif0333&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaif0333&theme=github_dark" alt="Most commit language" />
 </div>
 
 <br />
@@ -118,26 +143,15 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif0333&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub activity graph" />
 </div>
 
-<br />
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif0333&theme=github_dark" alt="Profile details" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif0333&theme=github_dark" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaif0333&theme=github_dark" alt="Most commit language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaif0333&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaif0333&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/SaaS%20Builder-OrderMitra--AI-00D9FF?style=for-the-badge" alt="SaaS Builder" />
+  <img src="https://img.shields.io/badge/Client%20Work-Live%20Projects-00D9FF?style=for-the-badge" alt="Client Work" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-3776AB?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/AI%2FML-Healthcare%20Analytics-FF6F00?style=for-the-badge" alt="AI ML" />
 </div>
 
 ---
@@ -160,9 +174,4 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
   <a href="https://kaif0333-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/s-mohammedkaifbasha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:smohammedkaifbasha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Kaif0333&style=for-the-badge&color=00D9FF" alt="Profile views" />
 </div>
