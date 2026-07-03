@@ -56,50 +56,14 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 
 ## 💼 Featured Client / Live Projects
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://www.gulshan-empire.in/"><img src="./assets/previews/gulshan-empire.svg" width="300" alt="Gulshan Empire preview" /></a><br />
-      <b>Gulshan Empire</b><br />
-      <sub>Luxury real-estate landing page</sub><br />
-      <a href="https://www.gulshan-empire.in/">Live Site</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://patrick-rcoyle.vercel.app/"><img src="./assets/previews/patrick-coyle.svg" width="300" alt="Patrick R. Coyle preview" /></a><br />
-      <b>Patrick R. Coyle</b><br />
-      <sub>Executive consulting website redesign</sub><br />
-      <a href="https://patrick-rcoyle.vercel.app/">Live Site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://codian-ui.vercel.app/"><img src="./assets/previews/codian-ui.svg" width="300" alt="Codian UI preview" /></a><br />
-      <b>Codian UI</b><br />
-      <sub>Mobile-first ecommerce product interface</sub><br />
-      <a href="https://codian-ui.vercel.app/">Live Site</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://raydz-shoes.vercel.app/"><img src="./assets/previews/raydz-shoes.svg" width="300" alt="Raydz Shoes preview" /></a><br />
-      <b>Raydz Shoes</b><br />
-      <sub>Streetwear shoe landing page</sub><br />
-      <a href="https://raydz-shoes.vercel.app/">Live Site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://japan-website-work.vercel.app/"><img src="./assets/previews/travel-website.svg" width="300" alt="Japan Tours preview" /></a><br />
-      <b>Japan Tours</b><br />
-      <sub>Cinematic travel landing page</sub><br />
-      <a href="https://japan-website-work.vercel.app/">Live Site</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://kaif0333-portfolio.vercel.app/"><img src="./assets/previews/personal-portfolio.svg" width="300" alt="Portfolio preview" /></a><br />
-      <b>Portfolio</b><br />
-      <sub>Developer portfolio and personal brand</sub><br />
-      <a href="https://kaif0333-portfolio.vercel.app/">Live Site</a>
-    </td>
-  </tr>
-</table>
+| Project | Category | Description | Live |
+|---|---|---|---|
+| **Gulshan Empire** | Real Estate | Luxury real-estate landing page with premium UI and lead-focused experience | [Visit](https://www.gulshan-empire.in/) |
+| **Patrick R. Coyle** | Consulting | Executive consulting / CFO advisory website redesign | [Visit](https://patrick-rcoyle.vercel.app/) |
+| **Codian UI** | Ecommerce UI | Mobile-first ecommerce product interface | [Visit](https://codian-ui.vercel.app/) |
+| **Raydz Shoes** | Ecommerce | Streetwear shoe landing page with bold visual branding | [Visit](https://raydz-shoes.vercel.app/) |
+| **Japan Tours** | Travel | Cinematic travel landing page with modern visual storytelling | [Visit](https://japan-website-work.vercel.app/) |
+| **Portfolio** | Personal Brand | Developer portfolio showcasing my work and skills | [Visit](https://kaif0333-portfolio.vercel.app/) |
 
 ---
 
