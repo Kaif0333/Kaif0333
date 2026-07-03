@@ -85,7 +85,8 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 
 ### AI / ML / Data
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI ML skills" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow and PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -101,21 +102,29 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaif0333&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaif0333&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif0333&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
 </div>
 
+<br />
+
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif0333&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Kaif0333&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
+
+<br />
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif0333&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub activity graph" />
 </div>
 
+<br />
+
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif0333&theme=github_dark" alt="Profile details" />
 </div>
+
+<br />
 
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif0333&theme=github_dark" alt="Repos per language" />
