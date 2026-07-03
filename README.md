@@ -12,30 +12,6 @@
   <a href="mailto:smohammedkaifbasha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<br />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="760">
-        <h2>Shaik Mohammed Kaif Basha</h2>
-        <p><b>Kaif0333</b> · he/him</p>
-        <p><b>Building useful SaaS products, premium client websites, and intelligent backend systems.</b></p>
-        <p>Focused on <b>Python / Django / FastAPI / React / AI-ML / SaaS</b></p>
-        <p>
-          <a href="mailto:smohammedkaifbasha@gmail.com">smohammedkaifbasha@gmail.com</a> ·
-          <a href="https://kaif0333-portfolio.vercel.app/">Portfolio</a> ·
-          <a href="https://www.linkedin.com/in/s-mohammedkaifbasha/">LinkedIn</a>
-        </p>
-        <p>
-          <img src="https://komarev.com/ghpvc/?username=Kaif0333&style=flat-square&color=00D9FF" alt="Profile views" />
-          <img src="https://img.shields.io/github/followers/Kaif0333?style=flat-square&label=Followers&color=00D9FF" alt="GitHub followers" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🚀 About Me
 
 **Backend-focused Full Stack Developer**  
@@ -67,12 +43,6 @@ Focused on **Python / Django / FastAPI / React / AI-ML / SaaS products**.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,react,nextjs,ts,js,tailwind,html,css,postgres,mongodb,redis,supabase,docker,git,githubactions,linux,postman" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaif0333&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </div>
 
 <div align="center">
