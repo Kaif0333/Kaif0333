@@ -1,28 +1,114 @@
-# 💫 About Me:
-Full Stack Developer specializing in Python, Java, and JavaScript with hands-on experience building scalable
-web applications. Proven track record of writing clean, maintainable code and delivering high-quality solutions.
-Improved system performance by 40 percent and reduced bugs by 25 percent through optimization and rigorous
-testing. Strong problem-solving abilities with expertise in both independent and collaborative development
-environments. Demonstrated success in fast-paced, deadline-driven projects.
+<div align="center">
 
+# Hi, I'm S Mohammed Kaif Basha 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaif._3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Shaik Mohammed Kaif Basha](https://in.linkedin.com/in/s-mohammedkaifbasha)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smohammedkaifbasha@gmail.com) 
+### Backend-focused Full Stack Developer | Python • Django/FastAPI • React • AI/ML
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaif0333&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kaif0333&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif0333&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build production-minded web apps, API systems, and AI-enabled platforms with clean architecture, secure authentication, database design, and real-world deployment workflows.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kaif0333&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub](https://img.shields.io/badge/GitHub-Kaif0333-181717?style=for-the-badge&logo=github)](https://github.com/Kaif0333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-S%20Mohammed%20Kaif%20Basha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/s-mohammedkaifbasha)
+[![Email](https://img.shields.io/badge/Email-smohammedkaifbasha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smohammedkaifbasha@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaif0333&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning), 2026
+- 💻 Focused on **Python backend engineering, full-stack development, and AI/ML applications**
+- 🧠 Interested in building SaaS products, automation systems, dashboards, APIs, and intelligent business tools
+- 🚀 Currently building **OrderMitra-AI**, an India-focused restaurant ordering SaaS with multi-tenant Supabase architecture
+- 🎯 Open to **Backend Developer, Python Developer, Full Stack Developer, and AI/ML Engineer** opportunities
+
+---
+
+## Featured Projects
+
+| Project | What it Shows | Tech Stack |
+|---|---|---|
+| **OrderMitra-AI** *(Private SaaS Build)* | Multi-tenant restaurant ordering SaaS with tenant-safe data access, onboarding, CI checks, and staged product roadmap | Next.js, Supabase, PostgreSQL, RLS, TypeScript, CI |
+| [**CuraMind AI**](https://github.com/Kaif0333/curamind-ai) | Telehealth and AI diagnostic platform with multiple backend services, async jobs, secure medical workflows, and deployment helpers | Django, FastAPI, Flask, Celery, Redis, PostgreSQL, MongoDB, Docker |
+| [**Spotter Backend Django**](https://github.com/Kaif0333/Spotter-Backend-Django) | Fuel route optimizer API using route geometry, geospatial filtering, and greedy lookahead optimization | Django, DRF, Python, OSRM, SQLite, Geopy |
+| [**SentinelStream**](https://github.com/Kaif0333/SentinelStream) | FinTech transaction monitoring backend with authentication and protected transaction APIs | FastAPI, PostgreSQL, SQLAlchemy, JWT, Uvicorn |
+| [**Adverse Drug Effect Detection**](https://github.com/Kaif0333/Adverse-Drug-Effect-Detection) | ML/NLP project for drug review analysis and adverse-effect classification | Python, Pandas, scikit-learn, TF-IDF, Random Forest, Streamlit |
+
+---
+
+## Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases, Cloud & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI / ML / Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## What I Like Building
+
+```text
+Backend APIs        → auth, RBAC, REST APIs, async jobs, database workflows
+AI/ML Products      → prediction apps, NLP pipelines, analytics dashboards
+SaaS Platforms      → multi-tenant systems, admin panels, product workflows
+Full-Stack Apps     → React/Next.js frontends connected to reliable backends
+```
+
+---
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kaif0333&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif0333&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif0333&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## Current Focus
+
+- Strengthening backend architecture with Django, FastAPI, PostgreSQL, Redis, and Docker
+- Building production-ready SaaS workflows in **OrderMitra-AI**
+- Improving system design, API security, testing, and deployment practices
+- Creating projects that solve real business problems, not only tutorial apps
+
+---
+
+<div align="center">
+
+### Let's build something useful 🚀
+
+📩 **Email:** [smohammedkaifbasha@gmail.com](mailto:smohammedkaifbasha@gmail.com)  
+🔗 **GitHub:** [github.com/Kaif0333](https://github.com/Kaif0333)  
+💼 **LinkedIn:** [S Mohammed Kaif Basha](https://in.linkedin.com/in/s-mohammedkaifbasha)
+
+</div>
