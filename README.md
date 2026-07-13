@@ -172,9 +172,9 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake-dark.svg?v=86038bb14df641cd42fd299c0a9e69b5ae504246" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg?v=d2e568f2f2e4213f89be4ec019e0a2e31c38dc6e" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg?v=d2e568f2f2e4213f89be4ec019e0a2e31c38dc6e" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake-dark.svg?v=0fc87034a5e4072532dfead18291e32d8717257b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg?v=c0135d90bc978faa11bccf04034c55dbbd138672" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg?v=c0135d90bc978faa11bccf04034c55dbbd138672" />
   </picture>
 </div>
 
