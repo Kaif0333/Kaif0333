@@ -31,7 +31,7 @@
 
 I am a **backend-focused Full Stack Developer** building real-world web apps, SaaS platforms, REST APIs, AI/ML projects, dashboards, and premium client websites.
 
-- 🔭 Currently building **OrderMitra-AI** — an India-focused restaurant ordering SaaS
+- 🔭 Currently building [**OrderMitra-AI**](https://github.com/Kaif0333/OrderMitra-AI) — an India-focused restaurant ordering SaaS
 - 💼 Built multiple live client/demo projects with modern UI and business-focused flows
 - 🧠 Focused on **Python, Django, FastAPI, React, PostgreSQL, Supabase, Docker, and AI/ML**
 - 🎓 B.Tech CSE — **Artificial Intelligence & Machine Learning**, 2026
@@ -42,12 +42,12 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 
 ## 🔥 Current Build
 
-### OrderMitra-AI
+### [OrderMitra-AI](https://github.com/Kaif0333/OrderMitra-AI)
 
 | Area | Details |
 |---|---|
 | Product Type | Restaurant ordering SaaS |
-| Status | Private active build |
+| Status | Public active development — Stage 0 complete |
 | Stack | Next.js, Supabase, PostgreSQL, TypeScript |
 | Focus | Multi-tenant architecture, onboarding, tenant-safe database workflows, product roadmap |
 | Goal | Help restaurants manage ordering, operations, and customer workflows directly |
@@ -172,9 +172,9 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake-dark.svg?v=0fc87034a5e4072532dfead18291e32d8717257b" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg?v=c0135d90bc978faa11bccf04034c55dbbd138672" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg?v=c0135d90bc978faa11bccf04034c55dbbd138672" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
