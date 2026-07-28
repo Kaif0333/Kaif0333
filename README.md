@@ -116,10 +116,22 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaif0333&style=for-the-badge&color=00D9FF" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Kaif0333?style=for-the-badge&logo=github&color=00D9FF" alt="GitHub followers" />
-  <a href="https://github.com/Kaif0333?tab=repositories"><img src="https://img.shields.io/badge/View-Public%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" /></a>
 </div>
 
----
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaif0333&theme=github_dark" alt="GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaif0333&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif0333&theme=github_dark" alt="GitHub profile details" />
+</div>
+
+<br />
 
 ## 🧾 Language Snapshot
 
@@ -128,6 +140,19 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
   <img src="https://img.shields.io/badge/JavaScript-Frontend%20%7C%20APIs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-SaaS%20Development-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-Database%20Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif0333&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaif0333&theme=github_dark" alt="Most commit language" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif0333&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub activity graph" />
 </div>
 
 ---
