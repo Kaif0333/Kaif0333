@@ -1,0 +1,32 @@
+name: Generate profile summary cards
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+  schedule:
+    - cron: "15 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Kaif0333
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: github_dark
+          ANIMATION: ""
