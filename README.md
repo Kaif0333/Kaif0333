@@ -121,14 +121,14 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 <br />
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaif0333&theme=github_dark&v=20260805-1308" alt="GitHub stats summary" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaif0333&theme=github_dark&utcOffset=5.5&v=20260805-1308" alt="Productive time" />
+  <img width="49%" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats summary" />
+  <img width="49%" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif0333&theme=github_dark&v=20260805-1308" alt="GitHub profile details" />
+  <img width="100%" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
 </div>
 
 <br />
@@ -145,8 +145,8 @@ I am a **backend-focused Full Stack Developer** building real-world web apps, Sa
 <br />
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif0333&theme=github_dark&v=20260805-1308" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaif0333&theme=github_dark&v=20260805-1308" alt="Most commit language" />
+  <img width="49%" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="https://raw.githubusercontent.com/Kaif0333/Kaif0333/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
 </div>
 
 <br />
